@@ -4,9 +4,11 @@
 
 ## Usage
 # gpio pins
+ ```bash
 set the 2 primairy led-pins to gpio 20 & 21
 set button pins to gpio 17 & 18
 set buttonLed-pin to gpio 4
+```
 
 # install rpi kernel headers library
 ```bash
